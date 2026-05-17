@@ -1,0 +1,16 @@
+Create two VPC Network
+Create Instance Each using 1 VPC
+Create Instance Each using 1 VPC
+Verify Connectivity
+Create Cloud Router for each VPC
+Create Static IP one each Network
+Create VPN Connectivity for Routers and Networks
+Create two customVPC network
+create Firewall Rules in both VPC
+Create Instance Each using one VPC
+Verify Connectivity
+Create TWo VPN one for each NEtwork
+Create Static IP one foe each Network
+Set Forwarding Rules for each VPN Gateway
+Create Tunnel between each Gateway
+Create Route for each Network
