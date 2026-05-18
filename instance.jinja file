@@ -1,0 +1,7 @@
+- name: deployment-mgr-firewall-rule
+  type: compute.v1.firewall
+  properties:
+    sourceRanges: ["0.0.0.0/0"]
+    allowed:
+    - IPProtocol: TCP
+      ports: ["80"]
